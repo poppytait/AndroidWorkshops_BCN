@@ -15,13 +15,21 @@ This workshops will expand through 5 months, one Saturday of every month there w
 
 Please Make sure you can attend every Saturday and Tuesday if possible. 
 
-
 ![calendar of workshops](https://github.com/WomenWhoCode/AndroidWorkshops_BCN/blob/master/workshop_calendar.PNG)
 
+- [Day 1 - Kotlin introduction and Android Components ](https://github.com/WomenWhoCode/AndroidWorkshops_BCN/blob/master/Day1%20-%20Kotlin%20Basics/Day1.md)
+
+- [Day 2 - Android Basics: User Interface and User Input ](https://github.com/WomenWhoCode/AndroidWorkshops_BCN/blob/master/Day1%20-%20Kotlin%20Basics/Day1.md)
+
+- [Day 3 -]()
+
+- [Day 4 -  ]()
+
+- [Day 5 - ]()
 
 ## I don't know code or Android can I attend? 
 
-Yes ☺️ this meetup will teach you Android from zero, you do not need to know anything of Android development or Kotlin as a language. 
+Yes ☺️ this meetup will teach you Android from zero, you do not need to know anything about Android development or Kotlin as a language. 
 
 You should have some familiarity with coding concepts though, we won't be teaching what classes, functions or strings are. But no worries if you do not know any Code concepts you can easily read them in this posts: 
 
