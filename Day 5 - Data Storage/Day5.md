@@ -1,10 +1,12 @@
-# Day 4 - Networking
+# Day 5 - Data Storage
 
-This course is designed for students who have completed [Day 1](https://github.com/WomenWhoCode/AndroidWorkshops_BCN/blob/master/Day1%20-%20Kotlin%20Basics/Day1.md),  [Day 2](https://github.com/WomenWhoCode/AndroidWorkshops_BCN/blob/master/Day%202%20-%20Android%20Basics/Day2.md) and [Day 3](https://github.com/WomenWhoCode/AndroidWorkshops_BCN/blob/master/Day%203%20-%20Multi%20Screen%20Apps/Day3.md). 
+This course is designed for students who have completed [Day 1](https://github.com/WomenWhoCode/AndroidWorkshops_BCN/blob/master/Day1%20-%20Kotlin%20Basics/Day1.md),  [Day 2](https://github.com/WomenWhoCode/AndroidWorkshops_BCN/blob/master/Day%202%20-%20Android%20Basics/Day2.md),  [Day 3](https://github.com/WomenWhoCode/AndroidWorkshops_BCN/blob/master/Day%203%20-%20Multi%20Screen%20Apps/Day3.md) and [Day 4]().
 
-By the end of the course, you’ll build an app that gets you up to date earthquake information!
+In this course, you will learn about the importance of data persistence when building an Android app. We'll introduce you to the fundamentals of SQL, the programming language needed to interact with an SQLite relational database. SQLite is a commonly used method to store large sets of data locally on an Android device.
 
-If you like guided tutorials, you might want to check out this course [Android Basics: Networking](https://eu.udacity.com/course/android-basics-networking--ud843)  we will be following the course through the workshop.  
+You'll also learn how to work with Content Providers, which help your data storage to be bug free and to be shared, if you choose, with other apps.
+
+If you like guided tutorials, you might want to check out this course [Android Basics: Data Storage](https://eu.udacity.com/course/android-basics-data-storage--ud845)  we will be following the course through the workshop.  
 
 ## What you'll learn
 

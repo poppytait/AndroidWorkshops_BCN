@@ -21,9 +21,9 @@ Please Make sure you can attend every Saturday and Tuesday if possible.
 
 - [Day 2 - Android Basics: User Interface and User Input ](https://github.com/WomenWhoCode/AndroidWorkshops_BCN/blob/master/Day%202%20-%20Android%20Basics/Day2.md)
 
-- [Day 3 -]()
+- [Day 3 - Multi-Screen Apps ](https://github.com/WomenWhoCode/AndroidWorkshops_BCN/blob/master/Day%203%20-%20Multi%20Screen%20Apps/Day3.md)
 
-- [Day 4 -  ]()
+- [Day 4 - Networking ]()
 
 - [Day 5 - ]()
 
