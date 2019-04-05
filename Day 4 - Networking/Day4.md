@@ -1,10 +1,10 @@
-# Day 3 - Multi-Screen Apps
+# Day 4 - Networking
 
-This course is designed for students who have completed [Day 1](https://github.com/WomenWhoCode/AndroidWorkshops_BCN/blob/master/Day1%20-%20Kotlin%20Basics/Day1.md) and [Day 2](https://github.com/WomenWhoCode/AndroidWorkshops_BCN/blob/master/Day%202%20-%20Android%20Basics/Day2.md). You don’t need any programming experience besides that course!
+This course is designed for students who have completed [Day 1](https://github.com/WomenWhoCode/AndroidWorkshops_BCN/blob/master/Day1%20-%20Kotlin%20Basics/Day1.md),  [Day 2](https://github.com/WomenWhoCode/AndroidWorkshops_BCN/blob/master/Day%202%20-%20Android%20Basics/Day2.md) and [Day 3](). 
 
-By the end of the course, you’ll build a language-learning app that you can share with your friends. 
+By the end of the course, you’ll build an app that gets you up to date earthquake information!
 
-If you like guided tutorials, you might want to check out this course [Android Basics: Multiscreen Apps](https://eu.udacity.com/course/android-basics-multiscreen-apps--ud839)  we will be following the course through the workshop.  
+If you like guided tutorials, you might want to check out this course [Android Basics: Networking](https://eu.udacity.com/course/android-basics-networking--ud843)  we will be following the course through the workshop.  
 
 ## What you'll learn
 

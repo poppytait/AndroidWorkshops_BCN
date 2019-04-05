@@ -19,7 +19,7 @@ Please Make sure you can attend every Saturday and Tuesday if possible.
 
 - [Day 1 - Kotlin introduction and Android Components ](https://github.com/WomenWhoCode/AndroidWorkshops_BCN/blob/master/Day1%20-%20Kotlin%20Basics/Day1.md)
 
-- [Day 2 - Android Basics: User Interface and User Input ](https://github.com/WomenWhoCode/AndroidWorkshops_BCN/blob/master/Day1%20-%20Kotlin%20Basics/Day1.md)
+- [Day 2 - Android Basics: User Interface and User Input ](https://github.com/WomenWhoCode/AndroidWorkshops_BCN/blob/master/Day%202%20-%20Android%20Basics/Day2.md)
 
 - [Day 3 -]()
 
@@ -38,7 +38,7 @@ You should have some familiarity with coding concepts though, we won't be teachi
 
 ## I am going to miss one of the workshops, can I still come? Can I catch up? 
 
-You are in luck 😄 everything we will be teaching will be following online courses and documentation to make this course more accessible to people. This way you can catch up if you missed a day or just re do the exercises to make sure you understand the concepts. 
+You are in luck 😄 everything we will be teaching will be following online courses and documentation to make this course more accessible to people. This way you can catch up if you missed a day or just redo the exercises to make sure you understand the concepts. 
 
 Go inside of the folder of any day you want to re do or that you missed, you will find the appropriate links there. And don't forget to do your homework before the next class!! 
 
