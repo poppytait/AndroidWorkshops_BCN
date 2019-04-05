@@ -7,9 +7,7 @@ so it is important to come prepared, that way you will be ready to start coding 
 
 Bear in mind that the wifi in the workshops may be a bit slow so we strongly recommend installing before hand.
 
-Do not hesitate to write a comment in the meetup or the WWCodeBCN Slack if you have an issue with the installation and we will be happy to help you. 
-
-In order for us to help you as soon as possible, indicate what is your operating system and the exact errors you are seeing.
+Do not hesitate to write a comment in the meetup or the WWCodeBCN Slack if you have an issue with the installation and we will be happy to help you. In order for us to help you as soon as possible, indicate what is your operating system and the exact errors you are seeing.
 
 ## Workshop Structure 
 
@@ -30,3 +28,20 @@ You should have some familiarity with coding concepts though, we won't be teachi
 - [Basic syntax](https://kotlinlang.org/docs/reference/basic-syntax.html)
 - [Gentle Introduction to Programming](https://link.medium.com/0L1UnynxDV)
 
+## I am going to miss one of the workshops, can I still come? Can I catch up? 
+
+You are in luck 😄 everything we will be teaching will be following online courses and documentation to make this course more accessible to people. This way you can catch up if you missed a day or just re do the exercises to make sure you understand the concepts. 
+
+Go inside of the folder of any day you want to re do or that you missed, you will find the appropriate links there. And don't forget to do your homework before the next class!! 
+
+## Our Amazing Teachers 👩‍💻
+
+- Rocio Ortega [@perrankana](https://twitter.com/Perrankana)
+- Elisa de Gregorio [@ElisaDGM](https://twitter.com/ElisaDGM)
+- Valeria Rogatchevskikh [@valllllll2000](https://twitter.com/valllllll2000)
+
+
+## Contact 
+
+- Any questions? [barcelona@womenwhocode.com](mailto:barcelona@womenwhocode.comn)
+- [Join Slack Channel](https://buff.ly/2mMjaf5)
