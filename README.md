@@ -18,7 +18,7 @@ This workshops will expand through 5 months, one Saturday of every month there w
 Please Make sure you can attend every Saturday and Tuesday if possible. 
 
 
-![calendar of workshops](/workshop_calendar.png)
+![calendar of workshops](https://github.com/WomenWhoCode/AndroidWorkshops_BCN/blob/master/workshop_calendar.PNG)
 
 
 ## I don't know code or Android can I attend? 
