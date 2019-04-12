@@ -30,8 +30,16 @@ Tip: Tap shift button when in Android Studio to search for these files, try it n
 Tip2: You can use some of the code you wrote in the codelab and reuse it.
 
 Open `activity_main.xml`
+As you can see, the root layout is LinearLayout which is less powerful than the ConstraintLayout you used during the codelab but also easier to use especially for simple layouts.
 * Add 2 buttons (Button). You can drag them using the layout editor (recommended) or write the xml code yourselves.
 The first button text should be "Huge dog" and the second one "Tiny dog".
 Set the first button text size to 20
 Set the second button size to 12
 Add a top margin to the bottom button to separate it from the top one. Try 16dp. You can play with this margin modifying it until you find one that you think looks good.
+
+2) Exercise 2
+Add click listeners to both buttons. When clicking "huge dog" the user should see HugeDogActivity and "tiny dog", TinyDogActivity. Use what you learned during the codelab.
+To help you with opening an activity, the code for viewing HugeDogActivity has already been added to MainActivity.
+
+3) Exercise 3
+Add one image view to `activity_huge_dog` and one to `activity_tiny_dog`. Inside `res/drawable` you will find 2 images to use as source for each activity. To help you check the [official documentation](https://developer.android.com/reference/kotlin/android/widget/ImageView)
