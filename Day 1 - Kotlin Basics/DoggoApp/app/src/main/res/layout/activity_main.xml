@@ -20,6 +20,7 @@
             android:text="Tiny dog"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:onClick="viewTinyDog"
             android:textSize="12sp"
             android:id="@+id/button2"/>
 
