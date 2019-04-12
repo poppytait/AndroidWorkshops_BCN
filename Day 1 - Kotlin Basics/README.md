@@ -18,3 +18,20 @@ This codelab is written for programmers and assumes you know either Java or Kotl
 If you do not know any Kotlin, check this [Kotlin Basic Syntax](https://kotlinlang.org/docs/reference/basic-syntax.html) link it will teach you what you need to know to move forward with the workshop. 
 
 To work through this codelab, you will need a computer that can run Android Studio (or already has Android Studio installed). Install Android Studio following [this instructions](https://github.com/WomenWhoCode/AndroidWorkshops_BCN/blob/master/Installation.md)
+
+
+## Homework
+You will use [this starting project](/DoggoApp)  for the homework AFTER the first workshop. 
+
+1) Exercise 1
+
+You will be working on the first screen making changes to `MainActivity.kt` and `activity_main.xml`
+Tip: Tap shift button when in Android Studio to search for these files, try it now...
+Tip2: You can use some of the code you wrote in the codelab and reuse it.
+
+Open `activity_main.xml`
+* Add 2 buttons (Button). You can drag them using the layout editor (recommended) or write the xml code yourselves.
+The first button text should be "Huge dog" and the second one "Tiny dog".
+Set the first button text size to 20
+Set the second button size to 12
+Add a top margin to the bottom button to separate it from the top one. Try 16dp. You can play with this margin modifying it until you find one that you think looks good.
