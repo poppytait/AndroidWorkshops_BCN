@@ -43,7 +43,7 @@ The first button text should be "Huge dog" and the second one "Tiny dog".
 ### Exercise 2
 
 Add click listeners to both buttons. When clicking "huge dog" the user should see `HugeDogActivity` and "tiny dog", `TinyDogActivity`. These classes have already been added to the project. Use what have you learned during the codelab.
-To help you with opening an activity, the code for viewing `HugeDogActivity` has already been added to MainActivity.
+To help you with opening an activity, the code for viewing `HugeDogActivity` has already been added to `MainActivity`.
 
 
 ### Exercise 3
