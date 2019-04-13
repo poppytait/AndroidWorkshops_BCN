@@ -37,12 +37,12 @@ The first button text should be "Huge dog" and the second one "Tiny dog".
 * Set the first button text size to 20sp.
 * Set the second button size to 12sp.
 * Add a top margin to the bottom button to separate it from the top one. Try 16dp. You can play with this margin modifying it until you find one that you think looks good.
-Tip: sp (scalable pixels) and dp (density-independent pixels) are units used by Android to make sure your views look nice on all screen sizes, [check here to find out more](https://developer.android.com/training/multiscreen/screendensities).
+* ✓Tip: sp (scalable pixels) and dp (density-independent pixels) are units used by Android to make sure your views look nice on all screen sizes, [check here to find out more](https://developer.android.com/training/multiscreen/screendensities).
 
 
 ### Exercise 2
 
-Add click listeners to both buttons. When clicking "huge dog" the user should see HugeDogActivity and "tiny dog", TinyDogActivity. Use what you learned during the codelab.
+Add click listeners to both buttons. When clicking "huge dog" the user should see HugeDogActivity and "tiny dog", TinyDogActivity. Use what have you learned during the codelab.
 To help you with opening an activity, the code for viewing HugeDogActivity has already been added to MainActivity.
 
 
