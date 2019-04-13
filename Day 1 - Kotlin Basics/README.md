@@ -49,3 +49,7 @@ To help you with opening an activity, the code for viewing `HugeDogActivity` has
 ### Exercise 3
 
 Add one image view to `activity_huge_dog` and one to `activity_tiny_dog`. Inside `res/drawable` you will find 2 images to use as source for each activity. To help you check the [official documentation](https://developer.android.com/reference/kotlin/android/widget/ImageView)
+
+### Final result
+
+<img src="https://user-images.githubusercontent.com/923280/56064626-da33e600-5d72-11e9-9c18-86f96cdae23e.gif" width="100" />
