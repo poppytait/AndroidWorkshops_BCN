@@ -31,7 +31,7 @@ You will be working on the first screen making changes to `MainActivity.kt` and 
 * ✓Tip 2: You can use some of the code you wrote in the codelab and reuse it.
 
 Open `activity_main.xml`
-As you can see, the root layout is LinearLayout which is less powerful than the ConstraintLayout you used during the codelab but also easier to use especially for simple layouts.
+As you can see, the root layout is LinearLayout which is less powerful than the ConstraintLayout you used during the codelab but also easier to use especially for simple layouts. You will lrarn more about layout in the next workshop.
 * Add 2 buttons (Button). You can drag them using the layout editor (recommended) or write the xml code yourselves.
 The first button text should be "Huge dog" and the second one "Tiny dog".
 * Set the first button text size to 20sp.
