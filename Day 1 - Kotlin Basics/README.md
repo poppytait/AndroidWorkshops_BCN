@@ -21,7 +21,7 @@ To work through this codelab, you will need a computer that can run Android Stud
 
 
 ## Homework
-You will use [this starting project](https://github.com/WomenWhoCode/AndroidWorkshops_BCN/tree/master/Day%201%20-%20Kotlin%20Basics/DoggoApp) for the homework AFTER the first workshop. 
+You will use [this starting project](https://github.com/WomenWhoCode/AndroidWorkshops_BCN/tree/master/Day%201%20-%20Kotlin%20Basics/DoggoApp) for the homework AFTER the first workshop. Import the project DoggoApp in Android Studio.
 
 ### Exercise 1
 
