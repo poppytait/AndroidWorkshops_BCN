@@ -21,13 +21,14 @@ To work through this codelab, you will need a computer that can run Android Stud
 
 
 ## Homework
-You will use [this starting project](/DoggoApp)  for the homework AFTER the first workshop. 
+You will use [this starting project](/DoggoApp) for the homework AFTER the first workshop. 
 
 ### Exercise 1
 
 You will be working on the first screen making changes to `MainActivity.kt` and `activity_main.xml`
-Tip: Tap shift button when in Android Studio to search for these files, try it now...
-Tip2: You can use some of the code you wrote in the codelab and reuse it.
+
+* ✓Tip: Tap shift button when in Android Studio to search for these files, try it now...
+* ✓Tip 2: You can use some of the code you wrote in the codelab and reuse it.
 
 Open `activity_main.xml`
 As you can see, the root layout is LinearLayout which is less powerful than the ConstraintLayout you used during the codelab but also easier to use especially for simple layouts.
